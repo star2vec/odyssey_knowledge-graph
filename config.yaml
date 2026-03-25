@@ -1,0 +1,8 @@
+ollama_model: llama3.2
+chunk_size: 1024
+chunk_overlap: 128
+max_triplets_schema: 15
+max_triplets_open: 20
+falkordb_host: localhost
+falkordb_port: 6379
+text_base_url: "https://www.theoi.com/Text/HomerOdyssey{book}.html"

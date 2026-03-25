@@ -1,0 +1,7 @@
+llama-index
+llama-index-llms-ollama
+llama-index-graph-stores-falkordb>=0.4.2
+llama-index-embeddings-ollama
+beautifulsoup4
+requests
+pyyaml
